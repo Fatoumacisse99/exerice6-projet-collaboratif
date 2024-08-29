@@ -92,6 +92,8 @@ button {
     padding: 0.7rem 1.5rem;
     border-radius: 4px;
     cursor: pointer;
+    margin-left: 520px;
+    margin-right: auto;
 }
 
 button:hover {
